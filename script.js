@@ -1,1 +1,1 @@
-<script>alert(ciao")</script>
+<script>alert("ciao")</script>
